@@ -7,13 +7,12 @@
 
 Term: Fall 2023
 
-+ Team ##
++ Group 5 ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Chen, Zhengfei
+	+ Liang, Kasey
+	+ Li, Guanbiao.
+	+ Zhao， Jackson
 
 + Project summary: In this project, we created ...
 	
