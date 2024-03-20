@@ -7,7 +7,7 @@
 
 Term: Spring 2024
 
-+ Group 5 ##
++ Group 5
 + Team members
 	+ Zhengfei Chen,
 	+ Kexin Liang,
